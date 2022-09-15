@@ -4,4 +4,5 @@
 
 int main(int argc, char* argv[]){
     printf("%d",add(3,4));
+    return 0;
 }

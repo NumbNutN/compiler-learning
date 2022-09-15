@@ -5,6 +5,9 @@ gcc <C file> -o <Program Name>
 没有-g程序的名字全部用内存地址替代了
 gcc -g <file> -o <prog>
 
+只进行到编译，不进行链接
+gcc -c <file> -o <file.o>
+
 
 gdb program
 
